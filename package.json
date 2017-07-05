@@ -19,9 +19,11 @@
     "type": "git",
     "url": "git+https://github.com/emilbayes/read-bytes-stream.git"
   },
-  "keywords": [],
+  "keywords": [
+    "head", "read", "bytes", "stream", "chunk", "peek", "header"
+  ],
   "author": "Emil Bay <github@tixz.dk>",
-  "license": "Proprietary",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/emilbayes/read-bytes-stream/issues"
   },
