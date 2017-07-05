@@ -1,6 +1,6 @@
 {
   "name": "read-bytes-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Read `n` bytes of a stream, then swap to another stream",
   "main": "index.js",
   "dependencies": {
