@@ -1,0 +1,29 @@
+{
+  "name": "read-bytes-stream",
+  "version": "0.0.0",
+  "description": "Read `n` bytes of a stream, then swap to another stream",
+  "main": "index.js",
+  "dependencies": {
+    "duplexify": "^3.5.0",
+    "nanoassert": "^1.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "choppa": "^1.0.2",
+    "tape": "^4.7.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/read-bytes-stream.git"
+  },
+  "keywords": [],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/emilbayes/read-bytes-stream/issues"
+  },
+  "homepage": "https://github.com/emilbayes/read-bytes-stream#readme"
+}

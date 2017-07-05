@@ -1,5 +1,7 @@
 # `read-bytes-stream`
 
+[![Build Status](https://travis-ci.org/emilbayes/read-bytes-stream.svg?branch=master)](https://travis-ci.org/emilbayes/read-bytes-stream)
+
 > Read `n` bytes of a stream, then swap to another stream
 
 ## Usage
