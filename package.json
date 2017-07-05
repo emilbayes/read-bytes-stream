@@ -1,6 +1,6 @@
 {
   "name": "read-bytes-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read `n` bytes of a stream, then swap to another stream",
   "main": "index.js",
   "dependencies": {
@@ -20,7 +20,13 @@
     "url": "git+https://github.com/emilbayes/read-bytes-stream.git"
   },
   "keywords": [
-    "head", "read", "bytes", "stream", "chunk", "peek", "header"
+    "head",
+    "read",
+    "bytes",
+    "stream",
+    "chunk",
+    "peek",
+    "header"
   ],
   "author": "Emil Bay <github@tixz.dk>",
   "license": "ISC",
